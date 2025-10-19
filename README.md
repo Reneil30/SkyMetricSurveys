@@ -1,1 +1,1 @@
-# SkyMetricSurvey
+# For Educational Purpose Only
